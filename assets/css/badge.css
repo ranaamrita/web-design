@@ -1,0 +1,142 @@
+.row
+{
+	margin-top: 50px;
+}
+#p
+{
+	width: 494px;
+	height: 400px;
+	
+}
+#p11
+{
+	width: 154px;
+    height:296px;
+    
+}
+#p22
+{
+	width: 160px;
+    height: 171px;
+   
+}
+#p33
+{
+	width: 195px;
+    height: 296px;
+    
+}
+.row1
+{
+	margin-top: 10px;
+}
+
+#pp
+{
+	margin-left: 71px;
+	margin-top: -28px;
+
+}
+#PP2
+{
+    margin-left: 78px;
+	margin-top: -2px;	
+}
+#bb
+{
+	padding: 10px;
+	margin-left:-236px;
+	margin-top: 80px;
+	border-radius: 0px;
+	width: 180px;
+	background-color: #fbc717;
+}
+
+
+.row2
+{
+	margin-top: 20px;
+}
+li a:hover
+{
+	background-color: orange;
+	color: black;
+}
+#reviews1
+{
+	margin-top: -20px;
+	margin-left: 32px;
+}
+#reviews2
+{
+	margin-top: -20px;
+	margin-left: 32px;
+}
+#reviews3
+{
+	margin-top: -20px;
+	margin-left: 32px;
+}
+#reviews4
+{
+	margin-top: -20px;
+	margin-left: 32px;
+}
+#reviews5
+{
+	margin-top: -20px;
+	margin-left: 32px;
+}
+#reviews6
+{
+	margin-top: -20px;
+	margin-left: 32px;
+}
+#btn
+{
+	
+	border-radius: 0px;
+}
+#t1
+{
+
+margin-right: 20px;
+padding: 25px;
+
+color:black;
+margin-bottom: 20px;
+width: 200px;
+}
+#t2
+{
+	margin-right: 20px;
+	padding:25px;
+	
+	color: black;
+	margin-bottom: 20px;
+	width: 200px;
+}
+#t3
+{
+	padding: 25px;
+	
+	color:black;
+	margin-bottom: 20px;
+	width: 200px;
+}
+.nav-pills>li.active
+{
+	background-color: orange;
+
+}
+.border
+{
+	border:thin #bfb9b9 solid;
+	margin:20px;
+	padding: 20px;
+}
+.nav-pills>li.active>a,.nav-pills>li.active>a:focus,.nav-pills>li.active>a:hover 
+{
+	color: white;
+	background-color: orange;
+}

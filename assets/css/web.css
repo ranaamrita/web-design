@@ -1,0 +1,157 @@
+/*.navbar-brand
+{
+margin-right: 645px;
+
+color: black;
+
+}*/
+#aa
+{
+	margin-left:645px;
+}
+.abc
+{
+	margin-left: 80px;
+	color: black;
+}
+li a:hover{
+	color: orange;
+}
+.a1
+{
+	color: black;
+	background-color: white;
+}
+.a
+{
+	color: black;
+}
+.b
+{
+	color: black;
+}
+.c
+{
+	color: black;
+}
+.d
+{
+	color: black;
+}
+.pic
+{
+	width: 1100px;
+	height: 200px;
+}
+.row
+{
+	margin-bottom: 100px;
+	margin-top: 60px;
+}
+#m1
+{
+	height: 220px;
+}
+#m2
+{
+	margin-right: 10px;
+	background-color: yellow;
+	height: 200px;
+}
+#m3
+{
+	margin-left: 10px;
+background-color: green;
+
+}
+#m4
+{
+margin-left: 10px;
+background-color: blue;
+
+}
+.p1
+{
+height: 100px;
+width: 80px;
+margin-left: 450px;
+
+}
+.p2
+{
+height: 90px;
+width: 80px;
+margin-left: 450px;
+
+}
+.p3
+{
+height: 130px;
+width: 80px;
+margin-left: 450px;
+
+}
+.navbar1
+{
+	padding: 10px;
+	border-radius: 20px;
+}
+.a1
+{
+padding: 10px;
+border-radius: 10px;
+background-color: black;
+color: white;
+
+}
+.navbar2
+{
+	background-color:orange;
+	padding: 51px;
+}
+#ab
+{
+	margin-left: 480px;
+	margin-bottom:35px;
+ 
+}
+.ab1
+{
+	margin-left: 178px;
+	margin-bottom:-34px;
+}
+.div1
+{
+	background-color:#e6ebec;
+}
+.div2
+{
+	background-color:#e6ebec;
+}
+.div3
+{
+	background-color:#e6ebec;
+}
+.div4
+{
+	background-color:#e6ebec;
+}
+#heater1
+{
+	
+	padding: 21px;
+}
+#heater2
+{
+	padding: 21px;
+}
+#heater3
+{
+	padding: 21px;
+}
+#heater4
+{
+	padding: 21px;
+}
+
+
